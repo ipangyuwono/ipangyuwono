@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Nama Kamu] 👋</h1>
+<h1 align="center">Hi there, I'm Irfan Adi Yuwono 👋</h1>
 
 <p align="center">
   I'm a passionate <strong>Web & Mobile Developer</strong> focusing on building seamless digital experiences. 
@@ -7,7 +7,7 @@
 
 <br>
 
-- 🔭 I’m currently working on **Web & Mobile Applications**
+- 🔭 I’m currently information System students at Polytechnic STMI Jakarta 
 - 🌱 I’m currently deepening my knowledge in **ReactJs & Kotlin**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Laravel, Android Dev, or Python**
