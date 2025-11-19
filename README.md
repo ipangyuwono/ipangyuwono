@@ -15,23 +15,20 @@
 
 <br>
 
-## 🛠 Tech Stack
+<h3 align="left">🛠 Tech Stack & Tools</h3>
 
 <p align="left">
-  <img src="<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/1b9ba287-984d-4448-8207-4d16da985a97" />
-" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <br>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <br>
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://static-cdn1.3dissue.com/wp-content/uploads/2013/07/html5.png" alt="HTML5" height="50" style="margin-right: 10px; vertical-align: middle;" />
+  <img src="https://www.thecrazyprogrammer.com/wp-content/uploads/2017/11/CSS3.jpg" alt="CSS3" height="50" style="margin-right: 10px; vertical-align: middle;" />
+  <img src="https://www.w3docs.com/uploads/media/book_gallery/0001/02/c4ba86c634f0f9c7ea055964c7f7436bab2bb698.png" alt="JavaScript" height="50" style="margin-right: 10px; vertical-align: middle;" />
+  <img src="https://www.devopsschool.com/blog/wp-content/uploads/2022/03/reactjs-benefits.jpg" alt="ReactJS" height="50" style="margin-right: 10px; vertical-align: middle;" />
+  <img src="https://tse3.mm.bing.net/th/id/OIP.mFNmwiH8FJ-xUN1RXj-o-wHaDt?pid=Api&P=0&h=180" alt="TailwindCSS" height="50" style="margin-right: 10px; vertical-align: middle;" />
+  <img src="https://miro.medium.com/v2/resize:fit:1200/1*As9Xs5ApObYBE76HgFP0RQ.png" alt="PHP" height="50" style="margin-right: 10px; vertical-align: middle;" />
+  <img src="https://www.e-spincorp.com/wp-content/uploads/2020/06/laravel-php-framework.jpg" alt="Laravel" height="50" style="margin-right: 10px; vertical-align: middle;" />
+  <img src="http://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="MySQL" height="50" style="margin-right: 10px; vertical-align: middle;" />
+  <img src="https://download.logo.wine/logo/C%2B%2B/C%2B%2B-Logo.wine.png" alt="C++" height="50" style="margin-right: 10px; vertical-align: middle;" />
+  <img src="https://media.proglib.io/wp-uploads/2017/10/kotlin.jpg" alt="Kotlin" height="50" style="margin-right: 10px; vertical-align: middle;" />
+  <img src="https://static.vecteezy.com/system/resources/previews/012/697/295/non_2x/3d-python-programming-language-logo-free-png.png" alt="Python" height="50" style="margin-right: 10px; vertical-align: middle;" />
 </p>
 
 <br>
