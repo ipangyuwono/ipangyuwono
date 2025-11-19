@@ -11,7 +11,7 @@
 - 🌱 I’m currently deepening my knowledge in **ReactJs & Kotlin**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Laravel, Android Dev, or Python**
-- ⚡ Fun fact: **I speak C++, Python, and PHP fluently!**
+- ⚡ Fun fact: **I Beginning at C++, Python, and PHP !**
 
 <br>
 
