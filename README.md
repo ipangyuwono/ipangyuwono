@@ -1,42 +1,55 @@
 <h1 align="center">Hi there, I'm Irfan Adi Yuwono 👋</h1>
-
 <p align="center">
-  I'm a passionate <strong>Web & Mobile Developer</strong> focusing on building seamless digital experiences. 
+  I'm a passionate <strong>Web & Mobile Developer</strong> focusing on building seamless digital experiences.<br>
   I love exploring new technologies and solving complex problems with code.
 </p>
-
 <br>
 
-- 🔭 I’m currently information System students at Polytechnic STMI Jakarta 
-- 🌱 I’m currently deepening my knowledge in **ReactJs & Kotlin**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Laravel, Android Dev, or Python**
-- ⚡ Fun fact: **I Beginning at C++, Python, and PHP !**
+🔭 I'm currently an Information System student at Polytechnic STMI Jakarta
+🌱 I'm currently deepening my knowledge in ReactJS, Kotlin, Machine Learning & Data Analytics
+🤖 I'm passionate about Machine Learning, Data Analysis & Competitive Programming
+👯 I'm looking to collaborate on Open Source Projects
+💬 Ask me about Web, Android, Data Science, or Competitive Programming
+⚡ Fun fact: I started my journey with C++, Python, and PHP!
 
 <br>
-
 <h3 align="left">🛠 Tech Stack & Tools</h3>
-
+<h4 align="left">🌐 Frontend</h4>
 <p align="left">
-  <img src="https://static-cdn1.3dissue.com/wp-content/uploads/2013/07/html5.png" alt="HTML5" height="50" style="margin-right: 10px; vertical-align: middle;" />
-  <img src="https://www.thecrazyprogrammer.com/wp-content/uploads/2017/11/CSS3.jpg" alt="CSS3" height="50" style="margin-right: 10px; vertical-align: middle;" />
-  <img src="https://www.w3docs.com/uploads/media/book_gallery/0001/02/c4ba86c634f0f9c7ea055964c7f7436bab2bb698.png" alt="JavaScript" height="50" style="margin-right: 10px; vertical-align: middle;" />
-  <img src="https://www.devopsschool.com/blog/wp-content/uploads/2022/03/reactjs-benefits.jpg" alt="ReactJS" height="50" style="margin-right: 10px; vertical-align: middle;" />
-  <img src="https://tse3.mm.bing.net/th/id/OIP.mFNmwiH8FJ-xUN1RXj-o-wHaDt?pid=Api&P=0&h=180" alt="TailwindCSS" height="50" style="margin-right: 10px; vertical-align: middle;" />
-  <img src="https://miro.medium.com/v2/resize:fit:1200/1*As9Xs5ApObYBE76HgFP0RQ.png" alt="PHP" height="50" style="margin-right: 10px; vertical-align: middle;" />
-  <img src="https://www.e-spincorp.com/wp-content/uploads/2020/06/laravel-php-framework.jpg" alt="Laravel" height="50" style="margin-right: 10px; vertical-align: middle;" />
-  <img src="http://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="MySQL" height="50" style="margin-right: 10px; vertical-align: middle;" />
-  <img src="https://download.logo.wine/logo/C%2B%2B/C%2B%2B-Logo.wine.png" alt="C++" height="50" style="margin-right: 10px; vertical-align: middle;" />
-  <img src="https://media.proglib.io/wp-uploads/2017/10/kotlin.jpg" alt="Kotlin" height="50" style="margin-right: 10px; vertical-align: middle;" />
-  <img src="https://static.vecteezy.com/system/resources/previews/012/697/295/non_2x/3d-python-programming-language-logo-free-png.png" alt="Python" height="50" style="margin-right: 10px; vertical-align: middle;" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
 </p>
-
-<br>
-
-## 📫 Let's Connect
-
+<h4 align="left">⚙️ Backend</h4>
 <p align="left">
-  <a href="ipangyuwono70@gmail.com">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+<h4 align="left">📱 Mobile</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+</p>
+<h4 align="left">🤖 Machine Learning & Data</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
+<h4 align="left">🏆 Competitive Programming</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</p>
+<br>
+📫 Let's Connect
+<p align="left">
+  <a href="mailto:ipangyuwono70@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
