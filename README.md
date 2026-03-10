@@ -1,4 +1,4 @@
-![logo-tlx](https://github.com/user-attachments/assets/ac346595-2df8-41b2-bbf0-e99ef2f1f54f)<img width="36" height="40" alt="image" src="https://github.com/user-attachments/assets/d4d67f18-23fb-447c-be34-96ee1fd01ea4" /><h1 align="center">Hi there, I'm Irfan Adi Yuwono 👋</h1>
+<h1 align="center">Hi there, I'm Irfan Adi Yuwono 👋</h1>
 
 <p align="center">
   I'm a passionate <strong>Web & Mobile Developer</strong> focusing on building seamless digital experiences.<br>
@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  <img src="C:\Users\Irfan Adi Y\Downloads\logo-tlx.jpg" alt="TLX" height="28" />
+  <img src="(https://github.com/user-attachments/assets/2799f02e-91a0-4c60-8cb2-dac3665860dd" alt="TLX" height="28" />
 </p>
 
 <br>
