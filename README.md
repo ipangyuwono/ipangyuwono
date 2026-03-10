@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Irfan Adi Yuwono 👋</h1>
+<img width="36" height="40" alt="image" src="https://github.com/user-attachments/assets/d4d67f18-23fb-447c-be34-96ee1fd01ea4" /><h1 align="center">Hi there, I'm Irfan Adi Yuwono 👋</h1>
 
 <p align="center">
   I'm a passionate <strong>Web & Mobile Developer</strong> focusing on building seamless digital experiences.<br>
@@ -8,11 +8,10 @@
 <br>
 
 - 🔭 I'm currently an Information System student at **Polytechnic STMI Jakarta**
-- 🌱 I'm currently deepening my knowledge in **ReactJS, Kotlin, Machine Learning & Data Analytics**
-- 🤖 I'm passionate about **Machine Learning, Data Analysis & Competitive Programming**
+- 🌱 I'm currently deepening my knowledge in **ReactJS, Kotlin, Machine Learning & Data Analytics, Competitive Programming**
+- 🤖 I'm currently write the code with **AI (LLM)**
 - 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Web, Android, Data Science, or Competitive Programming**
-- ⚡ Fun fact: **I started my journey with C++, Python, and PHP!**
+- ⚡ Fun fact: **I started my journey with C++**
 
 <br>
 
@@ -45,8 +44,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 </p>
 
@@ -55,7 +52,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/TOKI-CC0000?style=for-the-badge&logo=data:image/png;base64,&logoColor=white" alt="TOKI" />
+  <img src="https://1.bp.blogspot.com/-T90g299uLMc/XMPaFf6_FTI/AAAAAAAAAx8/f1nfgkaM_WQ05euZ5KjA55UuC91gqbgBQCLcBGAs/s1600/logo-colored.png" alt="TLX" />
 </p>
 
 <br>
