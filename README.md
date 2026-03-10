@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  <img src="(https://github.com/user-attachments/assets/2799f02e-91a0-4c60-8cb2-dac3665860dd" alt="TLX" height="28" />
+  <img src="https://github.com/user-attachments/assets/2799f02e-91a0-4c60-8cb2-dac3665860dd" alt="TLX" height="28" />
 </p>
 
 <br>
